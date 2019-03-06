@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS Tacho</string>
+
+    <string-array name="Spinner">
+        <item>Weiß</item>
+        <item>Rot</item>
+        <item>Blau</item>
+    </string-array>
+</resources>
