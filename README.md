@@ -4,7 +4,7 @@
 
 *White*
 
-![Screenshot](app/release/white.PNG?raw=true "White")
+![Screenshot](app/release/weiß.PNG?raw=true "White")
 
 *Gray*
 
